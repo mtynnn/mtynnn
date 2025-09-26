@@ -28,6 +28,9 @@ Computer Engineering student from Chile · Open to internship and junior develop
 - **El Comilón (Web App, Academic)**  
   Django + HTML/CSS/JS. Dish listings, user authentication, backend integration.  
 
+- **ValerinSMP Website** — [www.valerinsmp.com](http://www.valerinsmp.com)  
+  Ongoing project. Public website for a custom Minecraft server. Built with modern web tools and deployed on Linux hosting.  
+
 - **Family Business Server**  
   Deployed a Linux server with Nextcloud for file storage. Configured ports, backups, and basic security.  
 
