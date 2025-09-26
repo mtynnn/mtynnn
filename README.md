@@ -53,10 +53,19 @@ Computer Engineering student from Chile · Open to internship and junior develop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview  
+
 <p align="center">
-  <img alt="Martin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mtynnn&show_icons=true&count_private=true&theme=react&hide_border=true" height="180px"/>
-  <img alt="Martin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtynnn&layout=compact&theme=react&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtynnn&theme=react&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtynnn&show_icons=true&count_private=true&theme=react&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtynnn&layout=compact&theme=react&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mtynnn&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
