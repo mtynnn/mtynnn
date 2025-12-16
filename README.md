@@ -15,4 +15,4 @@ I’m currently open to **internships / junior developer roles**.
 #### Fun Facts:
 * I run a self-hosted Minecraft server (CLI-only on Linux)
 * I enjoy debugging and performance tuning more than UI polish
-* **Hobbies:** gym, building projects, gaming
+* **Hobbies:** gaming, cook, building projects
